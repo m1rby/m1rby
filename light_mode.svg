@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="500px" height="310px" font-size="16px">
+<?xml version="1.0" encoding="utf-8"?><svg xmlns="http://www.w3.org/2000/svg" font-family="Andale Mono,AndaleMono,Consolas,monospace" width="800px" height="330px" font-size="16px">
 <style>
 .keyColor {fill: #953800;}
 .valueColor {fill: #0a3069;}
@@ -18,7 +18,7 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="70">——————</tspan>
 <tspan  x="1010" y="90" class="keyColor">OS</tspan>: <tspan class="valueColor">Windows 11, android</tspan> 
 <tspan x="15" y="110" class="keyColor">Uptime</tspan>: <tspan class="valueColor">20 years, 2 months, 10 days</tspan>
-<tspan x="15" y="130" class="keyColor">Host</tspan>: <tspan class="valueColor">Ural Federal University named after the First President of Russia B. N. Yeltsin</tspan><tspan class="commentColor"> #RIT</tspan>
+<tspan x="15" y="130" class="keyColor">Host</tspan>: <tspan class="valueColor">Ural Federal University named after the First President of Russia B. N. Yeltsin</tspan><tspan class="commentColor"></tspan>
 <tspan x="15" y="150" class="keyColor">IDE</tspan>: <tspan class="valueColor">Code Blocks, Visual Studio Code</tspan>
 <tspan x="15" y="170" class="keyColor">Languages</tspan>.<tspan class="keyColor">Programming</tspan>: <tspan class="valueColor">Java, Python, C++, Kotlin</tspan>
 <tspan x="15" y="190" class="keyColor">Languages</tspan>.<tspan class="keyColor">Computer</tspan>: <tspan class="valueColor">HTML, CSS, JSON, XML, YAML, Markdown</tspan>
